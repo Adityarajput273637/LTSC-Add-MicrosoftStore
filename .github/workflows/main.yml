@@ -1,0 +1,55 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "master" branch
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
+          ig/ankitsingh91989_\/ig developer mode 123 
+          runs and reset the full instagram id 
+          @ankitsingh programmer insta id /ankitsingh91989
+          #  : developer mode on , kit made world 
+          runnders action take , etch 
+   /instagram runndrs mode qwick command run:- tech
+    
+    instagram id /primary :message command abr runner mode update /primary mode 
+    #tech 
+   instagram di /ankitaingh91919 :primary message run 
+   command usingh etch
+   
+   
+   ´´metch´´
+   firewall crypto unread cardding instagram account @ankitsingh98989
+   run direct messagr command pretat
+   
+   
+   
